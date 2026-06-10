@@ -5,6 +5,11 @@ title: "Paid inquiry: pdf/table extraction"
 labels: paid-inquiry, needs-scope
 ---
 
+## Fastest Buyer Links
+
+- Ready-to-buy route: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-pdf-table-extraction.html
+- Prefilled inquiry page: https://jaxassistant55.github.io/pdf-table-extraction-starter/inquiry.html
+
 ## Buyer Request
 
 - PDF/table type:

@@ -5,6 +5,8 @@ Free public preview for a fixed-scope PDF/Table Extraction.
 This repository exists as a lead surface for a paid service:
 
 - Paid offer: https://jaxassistant55.github.io/jax-micro-offer-studio/pdf-table-extraction.html
+- Ready-to-buy route: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-pdf-table-extraction.html
+- Prefilled inquiry page: https://jaxassistant55.github.io/pdf-table-extraction-starter/inquiry.html
 - Live free preview: https://jaxassistant55.github.io/pdf-table-extraction-starter/demo/
 - Repo order board: https://github.com/jaxassistant55/pdf-table-extraction-starter/issues/1
 - Scope builder: https://jaxassistant55.github.io/jax-micro-offer-studio/pdf-table-intake-builder.html
