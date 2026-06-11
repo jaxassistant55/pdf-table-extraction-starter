@@ -19,3 +19,7 @@ Save proof privately with:
 - payout or released-balance status.
 
 Public GitHub issues should not contain private buyer data or payment credentials.
+
+For preview-download follow-up, use the hot close room as the public fixed-scope reference:
+
+https://jaxassistant55.github.io/jax-micro-offer-studio/hot-download-close-pdf-table-extraction-starter.html

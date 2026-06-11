@@ -1,6 +1,7 @@
 # Buyer Brief Template: PDF/Table Extraction
 
 Listed price: $125
+Hot close room: https://jaxassistant55.github.io/jax-micro-offer-studio/hot-download-close-pdf-table-extraction-starter.html
 Paid offer: https://jaxassistant55.github.io/jax-micro-offer-studio/pdf-table-extraction.html
 Scope builder: https://jaxassistant55.github.io/jax-micro-offer-studio/pdf-table-intake-builder.html
 Order-board issue: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/20

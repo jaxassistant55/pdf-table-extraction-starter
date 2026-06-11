@@ -1,5 +1,9 @@
 # Order The PDF/Table Extraction
 
+Fast path for returning preview downloaders:
+
+https://jaxassistant55.github.io/jax-micro-offer-studio/hot-download-close-pdf-table-extraction-starter.html
+
 Use the public scope builder first:
 
 https://jaxassistant55.github.io/jax-micro-offer-studio/pdf-table-intake-builder.html
@@ -32,3 +36,7 @@ Use this repo-specific order board for the lowest-friction public buyer comment 
 https://github.com/jaxassistant55/pdf-table-extraction-starter/issues/1
 
 The issue is not payment proof. It is only a public intake thread. Paid work or paid bundle transfer still requires accepted scope and external payment proof before delivery.
+
+## Payment Boundary
+
+The hot close room, public issue, preview ZIP, release download, page view, star, or fork is not payment. The $125 extraction becomes countable only after a real buyer accepts the fixed scope, pays through a seller-controlled external route, receives delivery, and payment is posted, released, payable, or cleared.
