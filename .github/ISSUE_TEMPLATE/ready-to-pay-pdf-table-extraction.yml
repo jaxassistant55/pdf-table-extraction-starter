@@ -1,0 +1,96 @@
+name: Ready-to-pay PDF Table Extraction
+description: Submit safe public inputs for the fixed-scope $125 PDF/table extraction package
+title: "Ready to pay: PDF Table Extraction"
+labels:
+  - paid-inquiry
+  - ready-to-pay
+  - needs-scope
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form only when you want the fixed-scope PDF/Table Extraction package and can provide authorized public or buyer-owned files after scope acceptance.
+
+        Price: $125 fixed scope. This public issue is not payment proof. Paid work starts only after scope is accepted and external payment proof exists through a seller-owned checkout, invoice, marketplace order, funded milestone, or payment request.
+
+        Do not post private PDFs, customer records, credentials, payment screenshots, API keys, medical/legal/financial records, or sensitive files in this public issue.
+  - type: checkboxes
+    id: scope_boundary
+    attributes:
+      label: Scope and payment boundary
+      options:
+        - label: I understand this issue is public and I will not post private or sensitive files here.
+          required: true
+        - label: I accept that the listed fixed-scope price is $125 before any extra custom work.
+          required: true
+        - label: I understand payment must happen through an external seller-owned route before paid work starts.
+          required: true
+        - label: I have the right to use the documents or sample pages for this extraction.
+          required: true
+  - type: input
+    id: document_type
+    attributes:
+      label: Document or table type
+      description: Describe the table source without posting private content.
+      placeholder: Public annual report table, public price list PDF, buyer-owned invoice sample
+    validations:
+      required: true
+  - type: input
+    id: approximate_volume
+    attributes:
+      label: Approximate page/file count
+      description: Estimate the volume for the fixed-scope review.
+      placeholder: 3 PDFs, 18 pages total, 4 tables
+    validations:
+      required: true
+  - type: textarea
+    id: target_columns
+    attributes:
+      label: Target output columns
+      description: List the fields expected in the CSV or spreadsheet output.
+      placeholder: |
+        - Date
+        - Vendor
+        - Description
+        - Amount
+        - Category
+    validations:
+      required: true
+  - type: dropdown
+    id: output_format
+    attributes:
+      label: Preferred output format
+      options:
+        - CSV
+        - XLSX
+        - CSV plus QA notes
+        - Need to discuss before payment
+    validations:
+      required: true
+  - type: textarea
+    id: sample_access
+    attributes:
+      label: How will authorized samples be shared after scope acceptance?
+      description: Do not paste private file links here. Name the intended safe handoff route.
+      placeholder: I can share a public URL, or I can provide files privately after payment/funded milestone.
+    validations:
+      required: true
+  - type: dropdown
+    id: desired_turnaround
+    attributes:
+      label: Desired turnaround
+      options:
+        - Flexible, after payment proof
+        - 2 business days after payment proof and file receipt
+        - 5 business days after payment proof and file receipt
+        - Need to discuss before payment
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance_note
+    attributes:
+      label: Acceptance note
+      description: Confirm the exact deliverable and any safety constraints.
+      placeholder: I want a CSV plus QA notes from authorized files and will not post private PDFs publicly.
+    validations:
+      required: true

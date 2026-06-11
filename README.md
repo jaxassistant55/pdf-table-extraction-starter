@@ -13,6 +13,7 @@ That page includes the $125 fixed scope, ready-to-pay issue link, sample proof, 
 This repository exists as a lead surface for a paid service:
 
 - Hot close room for preview downloaders: https://jaxassistant55.github.io/jax-micro-offer-studio/hot-download-close-pdf-table-extraction-starter.html
+- Structured ready-to-pay issue form: https://github.com/jaxassistant55/pdf-table-extraction-starter/issues/new?template=ready-to-pay-pdf-table-extraction.yml
 - Paid offer: https://jaxassistant55.github.io/jax-micro-offer-studio/pdf-table-extraction.html
 - Ready-to-buy route: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-pdf-table-extraction.html
 - Payment activation after scope acceptance: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation

@@ -4,6 +4,10 @@ Fast path for returning preview downloaders. Start here before the broader scope
 
 https://jaxassistant55.github.io/jax-micro-offer-studio/hot-download-close-pdf-table-extraction-starter.html
 
+Structured ready-to-pay issue form:
+
+https://github.com/jaxassistant55/pdf-table-extraction-starter/issues/new?template=ready-to-pay-pdf-table-extraction.yml
+
 Sample proof:
 
 https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-sample-pack/README.md
@@ -67,6 +71,10 @@ Do not post private data, payment screenshots, API keys, customer records, or se
 Use this repo-specific order board for the lowest-friction public buyer comment path:
 
 https://github.com/jaxassistant55/pdf-table-extraction-starter/issues/1
+
+For structured intake instead of a free-form comment, open:
+
+https://github.com/jaxassistant55/pdf-table-extraction-starter/issues/new?template=ready-to-pay-pdf-table-extraction.yml
 
 The issue is not payment proof. It is only a public intake thread. Paid work or paid bundle transfer still requires accepted scope and external payment proof before delivery.
 

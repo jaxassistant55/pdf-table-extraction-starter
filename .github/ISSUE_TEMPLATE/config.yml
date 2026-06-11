@@ -1,11 +1,17 @@
 blank_issues_enabled: false
 contact_links:
+  - name: Hot close room for preview downloaders
+    url: https://jaxassistant55.github.io/jax-micro-offer-studio/hot-download-close-pdf-table-extraction-starter.html
+    about: Start here for the $125 ready-to-pay packet, sample proof, acceptance checklist, and payment boundary.
+  - name: Structured ready-to-pay form
+    url: https://github.com/jaxassistant55/pdf-table-extraction-starter/issues/new?template=ready-to-pay-pdf-table-extraction.yml
+    about: Open the repo-specific intake form for this fixed-scope extraction.
   - name: First $100 Fast Start
     url: https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-fast-start.html
     about: Pick one exact $100 fixed-scope starter and open the ready-to-pay intake.
-- name: First $100 sample pack
-  url: https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-sample-pack.zip
-  about: Review synthetic example deliverables before opening a paid $100 starter intake.
+  - name: First $100 sample pack
+    url: https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-sample-pack.zip
+    about: Review synthetic example deliverables before opening a paid $100 starter intake.
   - name: First $100 intake form
     url: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/new?template=first-100-fast-start.yml
     about: Open the structured GitHub issue form for the exact $100 route.
