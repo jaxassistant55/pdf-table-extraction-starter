@@ -2,6 +2,14 @@
 
 Free public preview for a fixed-scope PDF/Table Extraction.
 
+## Fastest Current Paid Path
+
+The preview has download interest. Returning preview visitors should start with the ready-to-pay close room:
+
+https://jaxassistant55.github.io/jax-micro-offer-studio/hot-download-close-pdf-table-extraction-starter.html
+
+That page includes the $125 fixed scope, ready-to-pay issue link, sample proof, buyer acceptance checklist, payment activation route, and proof-folder guidance. The preview ZIP, issue views, stars, and forks still count as $0 until a real buyer accepts scope and external payment proof exists.
+
 This repository exists as a lead surface for a paid service:
 
 - Hot close room for preview downloaders: https://jaxassistant55.github.io/jax-micro-offer-studio/hot-download-close-pdf-table-extraction-starter.html
