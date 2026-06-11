@@ -23,3 +23,7 @@ Public GitHub issues should not contain private buyer data or payment credential
 For preview-download follow-up, use the hot close room as the public fixed-scope reference:
 
 https://jaxassistant55.github.io/jax-micro-offer-studio/hot-download-close-pdf-table-extraction-starter.html
+
+## Payment Activation Link
+
+If scope is accepted, use https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation to generate a buyer payment message from a seller-owned payment URL. This is not payment proof by itself.

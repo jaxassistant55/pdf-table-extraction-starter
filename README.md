@@ -7,6 +7,7 @@ This repository exists as a lead surface for a paid service:
 - Hot close room for preview downloaders: https://jaxassistant55.github.io/jax-micro-offer-studio/hot-download-close-pdf-table-extraction-starter.html
 - Paid offer: https://jaxassistant55.github.io/jax-micro-offer-studio/pdf-table-extraction.html
 - Ready-to-buy route: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-pdf-table-extraction.html
+- Payment activation after scope acceptance: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation
 - Prefilled inquiry page: https://jaxassistant55.github.io/pdf-table-extraction-starter/inquiry.html
 - Live free preview: https://jaxassistant55.github.io/pdf-table-extraction-starter/demo/
 - Repo order board: https://github.com/jaxassistant55/pdf-table-extraction-starter/issues/1
