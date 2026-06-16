@@ -70,3 +70,18 @@ Not included: payment processing, login systems, private scraping, regulated leg
 ## Revenue Boundary
 
 This public repository is a free sample and counts as $0 by itself. Money counts only after a real buyer accepts scope, pays through a user-owned payment route, receives the work, and payment is posted, released, payable, or cleared.
+
+<!-- standalone-offer-terms:start -->
+## Terms And Exact Acceptance
+
+- Standalone terms: https://jaxassistant55.github.io/jax-micro-offer-studio/standalone-offer-terms.html#pdf-table-extraction-starter
+- Terms CSV: https://jaxassistant55.github.io/jax-micro-offer-studio/standalone_offer_terms.csv
+- Payment activation after accepted scope: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation.html
+- Proof monitor: https://jaxassistant55.github.io/jax-micro-offer-studio/proof-monitor.html
+
+Exact acceptance statement:
+
+> I accept the PDF/Table Extraction fixed-scope terms at $125. I understand work starts only after seller-owned external payment proof exists; I will provide only public or buyer-owned/buyer-authorized non-sensitive documents through an approved channel; the deliverable is limited to extracted CSV/XLSX output, ambiguity notes, and a repeatable extraction checklist for the accepted sample; and confidential regulated data handling, OCR of large batches, custom software implementation, credential/account access, ongoing support, or extra revisions are not included unless separately agreed before payment.
+
+This repository remains a public lead surface and counts $0 until a real buyer accepts terms, pays through a seller-owned external route, receives delivery or transfer, and payment is posted, released, payable, or cleared.
+<!-- standalone-offer-terms:end -->

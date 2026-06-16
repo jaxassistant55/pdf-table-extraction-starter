@@ -93,3 +93,18 @@ The issue is not payment proof. It is only a public intake thread. Paid work or 
 ## Payment Boundary
 
 The hot close room, public issue, preview ZIP, release download, page view, star, or fork is not payment. The $125 extraction becomes countable only after a real buyer accepts the fixed scope, pays through a seller-controlled external route, receives delivery, and payment is posted, released, payable, or cleared.
+
+<!-- standalone-offer-terms:start -->
+## Terms And Exact Acceptance
+
+- Standalone terms: https://jaxassistant55.github.io/jax-micro-offer-studio/standalone-offer-terms.html#pdf-table-extraction-starter
+- Terms CSV: https://jaxassistant55.github.io/jax-micro-offer-studio/standalone_offer_terms.csv
+- Payment activation after accepted scope: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation.html
+- Proof monitor: https://jaxassistant55.github.io/jax-micro-offer-studio/proof-monitor.html
+
+Exact acceptance statement:
+
+> I accept the PDF/Table Extraction fixed-scope terms at $125. I understand work starts only after seller-owned external payment proof exists; I will provide only public or buyer-owned/buyer-authorized non-sensitive documents through an approved channel; the deliverable is limited to extracted CSV/XLSX output, ambiguity notes, and a repeatable extraction checklist for the accepted sample; and confidential regulated data handling, OCR of large batches, custom software implementation, credential/account access, ongoing support, or extra revisions are not included unless separately agreed before payment.
+
+This repository remains a public lead surface and counts $0 until a real buyer accepts terms, pays through a seller-owned external route, receives delivery or transfer, and payment is posted, released, payable, or cleared.
+<!-- standalone-offer-terms:end -->
