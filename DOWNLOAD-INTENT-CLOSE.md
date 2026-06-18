@@ -25,3 +25,19 @@ https://jaxassistant55.github.io/jax-micro-offer-studio/pdf-table-download-inten
 
 This is a conversion route only. Money remains $0 until a real buyer accepts scope, uses a seller-owned external payment route, receives delivery, and the payment is posted, released, payable, or cleared.
 <!-- repo-primary-after-download:end -->
+
+<!-- warm-sample-output:start -->
+## Route-Specific Sample Output Before Ready-To-Pay
+
+A synthetic sample output is now available for PDF Table Extraction Starter:
+
+- PDF/Table sample output: https://jaxassistant55.github.io/jax-micro-offer-studio/pdf-table-sample-output.html
+- After-download close page: https://jaxassistant55.github.io/jax-micro-offer-studio/pdf-table-download-intent-close.html
+- Ready-to-pay form: https://github.com/jaxassistant55/pdf-table-extraction-starter/issues/new?template=ready-to-pay-pdf-table-extraction.yml
+- Sample-output CSV: https://jaxassistant55.github.io/jax-micro-offer-studio/warm_buyer_sample_outputs.csv
+- Proof monitor: https://jaxassistant55.github.io/jax-micro-offer-studio/proof-monitor.html
+
+Use the sample output to confirm the expected $125 deliverable shape before opening the ready-to-pay form. The sample, release, issue, page view, download, and form still count $0 until a real buyer accepts scope, pays through a seller-owned external route, receives delivery, and funds are posted, released, payable, or cleared.
+
+Updated 2026-06-18 10:23:52 JST.
+<!-- warm-sample-output:end -->
