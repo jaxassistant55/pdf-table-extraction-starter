@@ -7,7 +7,7 @@ require "open3"
 REPO = ENV.fetch("GITHUB_REPOSITORY", "jaxassistant55/pdf-table-extraction-starter")
 OFFER_TITLE = "PDF Table Extraction Starter"
 PRICE = "$125"
-OFFER_PAGE = "https://jaxassistant55.github.io/jax-micro-offer-studio/hot-download-close-pdf-table-extraction-starter.html"
+OFFER_PAGE = "https://jaxassistant55.github.io/jax-micro-offer-studio/pdf-table-download-intent-close.html"
 READY_FORM = "https://github.com/jaxassistant55/pdf-table-extraction-starter/issues/new?template=ready-to-pay-pdf-table-extraction.yml"
 ORDER_BOARD = "https://github.com/jaxassistant55/pdf-table-extraction-starter/issues/1"
 PAYMENT_ACTIVATION = "https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation.html"
@@ -221,17 +221,17 @@ end
 def response_body
   <<~MD
     #{MARKER}
-    Thanks for opening a ready-to-pay request for #{OFFER_TITLE}.
+    Thanks for opening an after-download ready-to-pay request for #{OFFER_TITLE}.
 
     Matched route: #{OFFER_TITLE}
     Listed price: #{PRICE}
-    Offer page: #{OFFER_PAGE}
+    Current after-download close page: #{OFFER_PAGE}
     Structured form: #{READY_FORM}
     Order board: #{ORDER_BOARD}
 
     Exact next steps:
     1. Keep the scope public-safe in this issue. Do not post passwords, payment cards, tax identifiers, private regulated details, confidential files, or screenshots of payment accounts.
-    2. Confirm the exact deliverable, deadline, acceptance proof, and any buyer-owned inputs that can safely be shared.
+    2. Confirm the exact deliverable, deadline, acceptance proof, payment/proof route preference, and any buyer-owned inputs that can safely be shared.
 3. Use payment activation only after scope or transfer terms are accepted: #{PAYMENT_ACTIVATION}
 4. Use the matching one-sale payment packet below when this is a $100+ one-sale route.
 5. Payment must happen through a seller-owned external checkout, invoice, marketplace order, payment request, or funded milestone. This GitHub issue is not a checkout and is not payment proof.
