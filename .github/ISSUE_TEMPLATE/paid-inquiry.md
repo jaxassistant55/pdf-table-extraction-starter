@@ -39,6 +39,19 @@ Use this path when the buyer wants the shortest fixed-scope route to a $100 paid
 - Direct payment handoff after exact acceptance: https://jaxassistant55.github.io/jax-micro-offer-studio/standalone-payment-handoff.html#pdf-table-extraction-starter
 - Standalone terms and exact acceptance: https://jaxassistant55.github.io/jax-micro-offer-studio/standalone-offer-terms.html#pdf-table-extraction-starter
 <!-- standalone-payment-handoff:end -->
+<!-- warm-preflight-template-routing:start -->
+## Fastest Buyer Preflight And Exact Acceptance
+
+- Build a public-safe preflight brief first: https://jaxassistant55.github.io/jax-micro-offer-studio/pdf-table-intake-builder.html
+- Review exact acceptance for this route: https://jaxassistant55.github.io/jax-micro-offer-studio/fastest-100-buyer-acceptance.html#hot-download-pdf-table-extraction-starter
+- Use the after-download close page: https://jaxassistant55.github.io/jax-micro-offer-studio/pdf-table-download-intent-close.html
+- Open the ready-to-pay form: https://github.com/jaxassistant55/pdf-table-extraction-starter/issues/new?template=ready-to-pay-pdf-table-extraction.yml
+- Payment activation after accepted scope: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation
+- Proof monitor: https://jaxassistant55.github.io/jax-micro-offer-studio/proof-monitor.html
+
+Observed interest: preview downloads=2; close-ready downloads=1. Price: $125. Confirmed money remains $0. This issue template, preflight brief, page views, downloads, and generated acceptance text are not payment proof.
+<!-- warm-preflight-template-routing:end -->
+
 ## Buyer Request
 
 - PDF/table type:

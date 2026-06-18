@@ -1,44 +1,54 @@
 blank_issues_enabled: false
 contact_links:
-- name: "Fastest $100 Start"
+- name: Build preflight brief
+  url: https://jaxassistant55.github.io/jax-micro-offer-studio/pdf-table-intake-builder.html
+  about: Turn public-safe buyer facts into scope before opening the paid form.
+- name: Exact acceptance room
+  url: https://jaxassistant55.github.io/jax-micro-offer-studio/fastest-100-buyer-acceptance.html#hot-download-pdf-table-extraction-starter
+  about: Review route-specific acceptance text before payment activation.
+- name: Fastest $100 Start
   url: https://jaxassistant55.github.io/jax-micro-offer-studio/fastest-100-start.html
-  about: "Shortest fixed-scope path to a $100 paid order; use before payment activation and proof capture."
-- name: "Fastest $100 route CSV"
+  about: Shortest fixed-scope path to a $100 paid order; use before payment activation
+    and proof capture.
+- name: Fastest $100 route CSV
   url: https://jaxassistant55.github.io/jax-micro-offer-studio/fastest_100_start.csv
-  about: "Ranked route table for picking the closest $100 fixed-scope paid order."
-- name: "One-sale payment packets"
+  about: Ranked route table for picking the closest $100 fixed-scope paid order.
+- name: One-sale payment packets
   url: https://jaxassistant55.github.io/jax-micro-offer-studio/one-sale-payment-packets.html
-  about: "Use only after exact buyer acceptance and a seller-owned payment URL exist."
-- name: "Structured ready-to-pay form"
+  about: Use only after exact buyer acceptance and a seller-owned payment URL exist.
+- name: Structured ready-to-pay form
   url: https://github.com/jaxassistant55/pdf-table-extraction-starter/issues/new?template=ready-to-pay-pdf-table-extraction.yml
-  about: "Open the repo-specific paid intake form for this exact route."
-- name: "After-download close path"
+  about: Open the repo-specific paid intake form for this exact route.
+- name: After-download close path
   url: https://jaxassistant55.github.io/jax-micro-offer-studio/pdf-table-download-intent-close.html
-  about: "Use the shortest warm-download paid path for this repo."
-- name: "Paid offer action catalog"
+  about: Use the shortest warm-download paid path for this repo.
+- name: Paid offer action catalog
   url: https://jaxassistant55.github.io/jax-micro-offer-studio/paid-offer-action-catalog.html
-  about: "Pick the fastest paid route, structured form, payment handoff, and proof rule."
-- name: "Sample-output gallery"
+  about: Pick the fastest paid route, structured form, payment handoff, and proof
+    rule.
+- name: Sample-output gallery
   url: https://jaxassistant55.github.io/jax-micro-offer-studio/one-sale-sample-output-gallery.html
-  about: "Review prepared sample outputs before opening a paid route."
-- name: "Payment activation after scope acceptance"
+  about: Review prepared sample outputs before opening a paid route.
+- name: Payment activation after scope acceptance
   url: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation
-  about: "Generate a buyer payment message from a seller-owned payment route after scope is accepted."
-- name: "Route-specific payment handoff"
+  about: Generate a buyer payment message from a seller-owned payment route after
+    scope is accepted.
+- name: Route-specific payment handoff
   url: https://jaxassistant55.github.io/jax-micro-offer-studio/standalone-payment-handoff.html#pdf-table-extraction-starter
-  about: "Use only after exact buyer acceptance and a seller-owned payment URL exist."
-- name: "Prefilled inquiry page"
+  about: Use only after exact buyer acceptance and a seller-owned payment URL exist.
+- name: Prefilled inquiry page
   url: https://jaxassistant55.github.io/pdf-table-extraction-starter/inquiry.html
-  about: "Start from a buyer-facing page before opening a GitHub issue."
-- name: "Repo order board"
+  about: Start from a buyer-facing page before opening a GitHub issue.
+- name: Repo order board
   url: https://github.com/jaxassistant55/pdf-table-extraction-starter/issues/1
-  about: "Comment only when scope, deadline, and payment/proof route can be discussed safely."
-- name: "Paid offer page"
+  about: Comment only when scope, deadline, and payment/proof route can be discussed
+    safely.
+- name: Paid offer page
   url: https://jaxassistant55.github.io/jax-micro-offer-studio/pdf-table-extraction.html
-  about: "Review price, scope, proof rule, and delivery boundary."
-- name: "Free preview"
+  about: Review price, scope, proof rule, and delivery boundary.
+- name: Free preview
   url: https://jaxassistant55.github.io/pdf-table-extraction-starter/
-  about: "Review the public preview before paid scope or transfer."
-- name: "Proof monitor"
+  about: Review the public preview before paid scope or transfer.
+- name: Proof monitor
   url: https://jaxassistant55.github.io/jax-micro-offer-studio/proof-monitor.html
-  about: "Check public buyer/download signals and the money proof boundary."
+  about: Check public buyer/download signals and the money proof boundary.
