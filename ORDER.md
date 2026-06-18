@@ -1,5 +1,27 @@
 # Order The PDF/Table Extraction
 
+<!-- after-download-order-primary:start -->
+## Start Here For A Returning Preview Downloader
+
+Open the after-download close page first:
+
+https://jaxassistant55.github.io/jax-micro-offer-studio/pdf-table-download-intent-close.html
+
+Use this exact sequence:
+
+1. Confirm the buyer accepts the $125 fixed scope.
+2. Confirm the buyer will provide only one buyer-owned or public PDF sample, target table fields, desired CSV column names, and any redaction requirements.
+3. Ask for the exact acceptance statement from the close page.
+4. Send only a seller-owned checkout, invoice, marketplace order, funded milestone, or payment request URL after acceptance.
+5. Start work only after external payment proof exists.
+6. Deliver only extracted CSV/XLSX output, ambiguity notes, and a repeatable extraction checklist.
+7. Count money only after payment is posted, released, payable, or cleared after fees, holds, disputes, and refunds.
+
+Exact acceptance statement:
+
+I accept the PDF/Table Extraction fixed-scope terms at $125. I understand work starts only after seller-owned external payment proof exists; I will provide only public or buyer-owned/buyer-authorized non-sensitive documents through an approved channel; the deliverable is limited to extracted CSV/XLSX output, ambiguity notes, and a repeatable extraction checklist for the accepted sample; and confidential regulated data handling, OCR of large batches, custom software implementation, credential/account access, ongoing support, or extra revisions are not included unless separately agreed before payment.
+<!-- after-download-order-primary:end -->
+
 Fast path for returning preview downloaders. Start here before the broader scope builder because this page already has the ready-to-pay issue link, sample proof, buyer acceptance checklist, payment activation route, proof-folder guidance, and money boundary:
 
 https://jaxassistant55.github.io/jax-micro-offer-studio/hot-download-close-pdf-table-extraction-starter.html

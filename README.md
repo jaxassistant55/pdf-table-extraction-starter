@@ -1,5 +1,26 @@
 # PDF Table Extraction Starter
 
+<!-- after-download-close-primary:start -->
+## Current Closest Paid Path: After-Download Close
+
+Preview downloads already exist for this repo. The fastest current paid route is the after-download close page, not the generic demo:
+
+https://jaxassistant55.github.io/jax-micro-offer-studio/pdf-table-download-intent-close.html
+
+Use it for a real buyer who downloaded or inspected the preview. It contains the exact $125 scope, acceptance statement, ready-to-pay form, payment handoff, proof rules, CSV/JSON, and the after-download ZIP.
+
+Direct links:
+
+- After-download close page: https://jaxassistant55.github.io/jax-micro-offer-studio/pdf-table-download-intent-close.html
+- After-download ZIP: https://github.com/jaxassistant55/pdf-table-extraction-starter/releases/download/preview-v1/pdf-table-extraction-download-intent-close-v1.zip
+- Ready-to-pay form: https://github.com/jaxassistant55/pdf-table-extraction-starter/issues/new?template=ready-to-pay-pdf-table-extraction.yml
+- Repo order board: https://github.com/jaxassistant55/pdf-table-extraction-starter/issues/1
+- Payment activation after accepted scope: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation
+- Proof monitor: https://jaxassistant55.github.io/jax-micro-offer-studio/proof-monitor.html
+
+Money rule: downloads, stars, forks, page views, generated packets, issue templates, and GitHub comments count as $0. Count only externally posted, released, payable, or cleared payment after buyer acceptance and delivery.
+<!-- after-download-close-primary:end -->
+
 Free public preview for a fixed-scope PDF/Table Extraction.
 
 ## Fastest Current Paid Path

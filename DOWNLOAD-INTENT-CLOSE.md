@@ -15,3 +15,13 @@ Exact acceptance statement:
 I accept the PDF/Table Extraction fixed-scope terms at $125. I understand work starts only after seller-owned external payment proof exists; I will provide only public or buyer-owned/buyer-authorized non-sensitive documents through an approved channel; the deliverable is limited to extracted CSV/XLSX output, ambiguity notes, and a repeatable extraction checklist for the accepted sample; and confidential regulated data handling, OCR of large batches, custom software implementation, credential/account access, ongoing support, or extra revisions are not included unless separately agreed before payment.
 
 Money rule: downloads, issue comments, pages, packets, release assets, and opened forms count $0. Count only externally posted, released, payable, or cleared payment after accepted scope and delivery proof.
+
+<!-- repo-primary-after-download:start -->
+## Repo Primary Route
+
+The GitHub repo homepage and top README/ORDER path now route returning preview downloaders to:
+
+https://jaxassistant55.github.io/jax-micro-offer-studio/pdf-table-download-intent-close.html
+
+This is a conversion route only. Money remains $0 until a real buyer accepts scope, uses a seller-owned external payment route, receives delivery, and the payment is posted, released, payable, or cleared.
+<!-- repo-primary-after-download:end -->
